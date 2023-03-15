@@ -1,0 +1,11 @@
+.card {
+  max-width: 400px;
+  .card-img-top {
+    height: 300px;
+  }
+  .card-body{
+    .sub-card{
+      margin-left: 15px;
+    }
+  }
+}
