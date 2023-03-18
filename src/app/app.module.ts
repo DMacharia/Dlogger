@@ -12,8 +12,8 @@ import { SinglePostComponent } from './components/pages/single-post/single-post.
 import { TermsAndConditionsComponent } from './components/pages/terms-and-conditions/terms-and-conditions.component';
 import { ContactUsComponent } from './components/pages/contact-us/contact-us.component';
 import { SubscriptionFormComponent } from './components/subscription-form/subscription-form.component';
-import { CommentsFormComponent } from './components/subscription-form/comments/comments-form/comments-form.component';
-import { CommentsListComponent } from './components/subscription-form/comments/comments-list/comments-list.component';
+import { CommentsFormComponent } from './components/pages/comments/comments-form/comments-form.component';
+import { CommentsListComponent } from './components/pages/comments/comments-list/comments-list.component';
 import { AboutUsComponent } from './components/pages/about-us/about-us.component';
 import { PostCardComponent } from './components/layouts/post-card/post-card.component';
 
