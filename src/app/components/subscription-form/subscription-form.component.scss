@@ -1,24 +1,16 @@
 .card {
   background-color: var(--secondary-color);
   width: 1300px;
-  .subs-text{
+  .subs-text {
     width: 600px;
   }
   .form-inline {
     display: flex;
     margin-left: 10px;
     input {
-      height: 60px;
-      padding-left: 20px;
-      font-size: 14px;
       width: 80%;
     }
     .btn-sub {
-      height: 58px;
-      border: none;
-      font-size: 14px;
-      background-color: var(--primary-color);
-      color: white;
       width: 100%;
     }
   }
